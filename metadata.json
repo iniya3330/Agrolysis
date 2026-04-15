@@ -1,0 +1,6 @@
+{
+  "name": "AgRolysis",
+  "description": "Comprehensive agricultural resource utilization and crop yield analysis system for Indian agriculture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Data Visualization", "AI Insights", "Agricultural Analytics"]
+}
